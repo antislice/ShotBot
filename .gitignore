@@ -13,3 +13,5 @@
 /tmp
 .byebug_history
 .DS_Store
+# don't really want to check in right now
+spec/cdsi-test-cases-results (1).csv
